@@ -2,6 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.yhh</groupId>
   <artifactId>lucene_solr</artifactId>
+  
   <version>0.0.1-SNAPSHOT</version>
   
 
